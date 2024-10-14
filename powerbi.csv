@@ -1,0 +1,39 @@
+Model,Name,Email,Director,Senior Manager,Please select your Manager Name:,Please enter your Employee ID:,Please enter your Dell Email ID:,Gender,Job Level,Attendance,Team,Attendance Status,Salary,Date,Month,Quarter,Bonus
+Basic ,James,James Tony@Sample_Demo.com,Morris,Dan,Dan,8645382,James Tony@Sample.com,Male,Executive,Present,Team 4,1,10000,2/1/2022,Feb,Q1,500
+Basic ,John,John Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645383,John Tony@Sample.com,Male,Senior Executive,Absent,Team 5,0,11000,2/1/2022,Feb,Q1,550
+Basic ,Robert,Robert Tony@Sample_Demo.com,Morris,Sam,Sam,8645384,Robert Tony@Sample.com,Male,Anyalst,Present,Team 4,1,12000,2/1/2022,Feb,Q1,600
+Basic ,Michael,Michael Tony@Sample_Demo.com,Morris,Kent,Kent,8645385,Michael Tony@Sample.com,Female,Senior Analyst,Present,Team 2,1,13000,2/1/2022,Feb,Q1,650
+Basic ,William,William Tony@Sample_Demo.com,Morris,Wade,Wade,8645386,William Tony@Sample.com,Female,Team Lead,Present,Team 2,1,14000,2/1/2022,Feb,Q1,700
+Basic ,David,David Tony@Sample_Demo.com,Morris,Dan,Dan,8645387,David Tony@Sample.com,Female,Executive,Absent,Team 5,0,15000,2/1/2022,Feb,Q1,750
+Basic ,Richard,Richard Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645388,Richard Tony@Sample.com,Female,Senior Executive,Present,Team 2,1,16000,2/1/2022,Feb,Q1,800
+Basic ,Charles,Charles Tony@Sample_Demo.com,Morris,Sam,Sam,8645389,Charles Tony@Sample.com,Female,Anyalst,Present,Team 2,1,17000,2/1/2022,Feb,Q1,850
+Basic ,Joseph,Joseph Tony@Sample_Demo.com,Morris,Kent,Kent,8645390,Joseph Tony@Sample.com,Female,Senior Analyst,Present,Team 1,1,18000,2/1/2022,Feb,Q1,900
+Basic ,Thomas,Thomas Tony@Sample_Demo.com,Morris,Wade,Wade,8645391,Thomas Tony@Sample.com,Male,Team Lead,Absent,Team 4,0,19000,2/1/2022,Feb,Q1,950
+Basic ,Edward,Edward Tony@Sample_Demo.com,Morris,Dan,Dan,8645392,Edward Tony@Sample.com,Female,Executive,Absent,Team 2,0,20000,2/1/2022,Feb,Q1,1000
+Basic ,Daniel,Daniel Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645393,Daniel Tony@Sample.com,Male,Senior Executive,Present,Team 4,1,21000,2/1/2022,Feb,Q1,1050
+Basic ,Paul,Paul Tony@Sample_Demo.com,Morris,Sam,Sam,8645394,Paul Tony@Sample.com,Female,Anyalst,Present,Team 3,1,22000,2/1/2022,Feb,Q1,1100
+Basic ,Mark,Mark Tony@Sample_Demo.com,Morris,Kent,Kent,8645395,Mark Tony@Sample.com,Female,Senior Analyst,Present,Team 5,1,23000,2/1/2022,Feb,Q1,1150
+Basic ,Donald,Donald Tony@Sample_Demo.com,Morris,Wade,Wade,8645396,Donald Tony@Sample.com,Male,Team Lead,Present,Team 5,1,24000,2/1/2022,Feb,Q1,1200
+Basic ,Jeff,Jeff Tony@Sample_Demo.com,Morris,Dan,Dan,8645397,Jeff Tony@Sample.com,Male,Executive,Absent,Team 5,0,25000,2/1/2022,Feb,Q1,1250
+Basic ,Kenneth,Kenneth Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645398,Kenneth Tony@Sample.com,Male,Senior Executive,Present,Team 5,1,26000,2/1/2022,Feb,Q1,1300
+Basic ,Steven,Steven Tony@Sample_Demo.com,Morris,Sam,Sam,8645399,Steven Tony@Sample.com,Female,Anyalst,Present,Team 5,1,27000,2/1/2022,Feb,Q1,1350
+Basic ,Kevin,Kevin Tony@Sample_Demo.com,Morris,Kent,Kent,8645400,Kevin Tony@Sample.com,Female,Senior Analyst,Present,Team 1,1,28000,2/1/2022,Feb,Q1,1400
+Intermediate,James,James Tony@Sample_Demo.com,Morris,Wade,Wade,8645401,James Tony@Sample.com,Male,Team Lead,Present,Team 4,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,John,John Tony@Sample_Demo.com,Morris,Dan,Dan,8645402,John Tony@Sample.com,Male,Executive,Present,Team 4,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Robert,Robert Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645403,Robert Tony@Sample.com,Female,Senior Executive,Present,Team 2,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Michael,Michael Tony@Sample_Demo.com,Morris,Sam,Sam,8645404,Michael Tony@Sample.com,Female,Anyalst,Present,Team 2,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,William,William Tony@Sample_Demo.com,Morris,Kent,Kent,8645405,William Tony@Sample.com,Female,Senior Analyst,Present,Team 2,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,David,David Tony@Sample_Demo.com,Morris,Wade,Wade,8645406,David Tony@Sample.com,Female,Team Lead,Present,Team 2,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Richard,Richard Tony@Sample_Demo.com,Morris,Dan,Dan,8645407,Richard Tony@Sample.com,Female,Executive,Present,Team 1,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Charles,Charles Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645408,Charles Tony@Sample.com,Male,Senior Executive,Present,Team 4,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Joseph,Joseph Tony@Sample_Demo.com,Morris,Sam,Sam,8645409,Joseph Tony@Sample.com,Female,Anyalst,Present,Team 3,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Thomas,Thomas Tony@Sample_Demo.com,Morris,Kent,Kent,8645410,Thomas Tony@Sample.com,Female,Senior Analyst,Present,Team 5,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Edward,Edward Tony@Sample_Demo.com,Morris,Wade,Wade,8645411,Edward Tony@Sample.com,Male,Team Lead,Present,Team 5,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Daniel,Daniel Tony@Sample_Demo.com,Morris,Dan,Dan,8645412,Daniel Tony@Sample.com,Male,Executive,Present,Team 5,1,10000,2/1/2022,Feb,Q1,500
+Intermediate,Paul,Paul Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645413,Paul Tony@Sample.com,Male,Senior Executive,Present,Team 2,1,15000,2/1/2022,Feb,Q1,750
+Intermediate,Mark,Mark Tony@Sample_Demo.com,Morris,Sam,Sam,8645414,Mark Tony@Sample.com,Male,Anyalst,Present,Team 2,1,20000,2/1/2022,Feb,Q1,1000
+Intermediate,Donald,Donald Tony@Sample_Demo.com,Morris,Kent,Kent,8645415,Donald Tony@Sample.com,Male,Senior Analyst,Present,Team 2,1,25000,2/1/2022,Feb,Q1,1250
+Intermediate,Jeff,Jeff Tony@Sample_Demo.com,Morris,Wade,Wade,8645416,Jeff Tony@Sample.com,Female,Team Lead,Present,Team 1,1,30000,2/1/2022,Feb,Q1,1500
+Intermediate,Kenneth,Kenneth Tony@Sample_Demo.com,Morris,Dan,Dan,8645417,Kenneth Tony@Sample.com,Female,Executive,Present,Team 4,1,35000,2/1/2022,Feb,Q1,1750
+Intermediate,Steven,Steven Tony@Sample_Demo.com,Morris,Lewis,Lewis,8645418,Steven Tony@Sample.com,Female,Senior Executive,Present,Team 3,1,40000,2/1/2022,Feb,Q1,2000
+Intermediate,Kevin,Kevin Tony@Sample_Demo.com,Morris,Sam,Sam,8645419,Kevin Tony@Sample.com,Female,Anyalst,Present,Team 5,1,45000,2/1/2022,Feb,Q1,2250
